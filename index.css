@@ -1,11 +1,15 @@
 .tit{
     padding: 0;
     margin: 0;
+    
 }
 .top{
     width: 50%;
     height: 70px;
     border: 1px solid steelblue;
     margin: auto;
-    
+    margin-top: 30px;
+}
+.prof{
+    text-align: center;
 }
